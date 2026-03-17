@@ -1,10 +1,12 @@
-** Netflix Content Data Analysis**
+**Netflix Content Data Analysis**
 
-** Overview **
+
+**Overview**
 
 Analyzed streaming platform content data to understand content trends, identify audience preferences, and generate actionable business insights for improving content strategy and global growth.
 
-Dataset
+
+**Dataset**
 
 The dataset includes content attributes such as:
 
@@ -26,7 +28,8 @@ Genre (Listed In)
 
 Description
 
-Objective
+
+**Objective**
 
 Understand what type of content is available
 
@@ -38,7 +41,8 @@ Study audience targeting through ratings
 
 Provide data-driven recommendations for business growth
 
-Key Analysis
+
+**Key Analysis**
 
 Exploratory Data Analysis (EDA)
 
@@ -52,7 +56,8 @@ Outlier Detection using Boxplots
 
 Correlation Analysis
 
-Key Insights
+
+**Key Insights**
 
 Movies dominate the platform compared to TV shows.
 
@@ -64,7 +69,8 @@ Majority content is rated TV-MA and TV-14, targeting mature audiences.
 
 United States and India contribute the highest number of titles.
 
-Content Trends
+
+**Content Trends**
 
 Recent Content Focus: Majority of titles are modern (post-2010)
 
@@ -74,7 +80,8 @@ Audience Targeting: Strong focus on adult viewers
 
 Global Distribution: Content is concentrated in a few major countries
 
-Tools Used
+
+**Tools Used**
 
 Python (Pandas, NumPy)
 
@@ -82,7 +89,8 @@ Matplotlib, Seaborn
 
 Google Colab / Jupyter Notebook
 
-Business Impact
+
+**Business Impact**
 
 Helps in deciding what type of content to produce
 
@@ -92,7 +100,8 @@ Identifies gaps in family-friendly content
 
 Improves content planning and audience targeting
 
-Project Highlights
+
+**Project Highlights**
 
 Performed end-to-end Exploratory Data Analysis on real-world dataset
 
